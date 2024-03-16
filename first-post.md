@@ -8,3 +8,8 @@ Learning something new every day is the key to success!
 
 ## Mind games
 lorem ipsum dolor sit amet, consectetur adip
+
+### Food for Learning
+1. I need to read more books
+2. I need to use nvim more
+3. I need to practice more
