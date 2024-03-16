@@ -4,4 +4,4 @@ author: Christos Emmmanouilidis
 date: 20240316
 ---
 # Continous Education
-Learning something new every day it he key to success!
+Learning something new every day is the key to success!
