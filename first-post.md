@@ -13,3 +13,6 @@ lorem ipsum dolor sit amet, consectetur adip
 1. I need to read more books
 2. I need to use nvim more
 3. I need to practice more
+
+# Learning Git
+- learning the basics of Git and Github
